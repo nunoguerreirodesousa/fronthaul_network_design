@@ -1,0 +1,4 @@
+name,wavelength,debit,emission_power,emission_gain,reception_gain,sensitivity,noise_factor,cost
+M1-FE-L,785,100,60,30,0,-30,4.5,29716
+M1-GE,1550,1000,2,30,0,-30,4.5,32197
+M1-10GE,1550,10000,200,30,0,-18,4.5,138913

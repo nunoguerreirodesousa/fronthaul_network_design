@@ -1,0 +1,4 @@
+name,frequency,debit,emission_power,emission_gain,reception_gain,sensitivity,noise_factor,cost
+PT_2020,42,570,0,34,34,-122,4,85226
+LH,13,380,2,28,28,-111,4,101017
+TN-R5,42,1100,0,34,34,-122,4,95394
