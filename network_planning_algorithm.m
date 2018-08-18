@@ -24,7 +24,7 @@ for j=1:nr_iterations(it)
     total_cost=k*BBU_cost;
 
     for dots=1:nr_points
-        [cost,eq_ref]=techtest(D(dots,idx(dots)),debits(dots));
+        [cost,eq_ref]=link_design_algorithm(D(dots,idx(dots)),debits(dots));
         total_cost=total_cost+cost;
         eq_used(dots)=eq_ref;
         pointcost(dots)=cost;
