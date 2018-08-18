@@ -26,7 +26,7 @@
 
 %Variables
 
-function [cheapest_cost,eq_ref] = techtest(d,requested_debit)
+function [cheapest_cost,eq_ref] = link_design_algorithm(d,requested_debit)
 
 
 index=0;
